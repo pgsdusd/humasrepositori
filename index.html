@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Humas PGSD - Universitas</title>
+    <!-- Favicon (Format PNG/JPG) -->
+    <link rel="icon" type="image/png" href="logo.png">
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts for artistic feel -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <!-- Font Awesome for social media icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <header>
+        <div class="container nav-wrapper">
+            <div class="logo">
+                <a href="index.html" class="logo-link">
+                    <img src="logo.png" alt="Logo PGSD" class="brand-logo">
+                    <span class="logo-text">HUMAS <span class="accent-text">PGSD</span></span>
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#dokumen">Dokumen</a></li>
+                    <li><a href="#berita">Berita</a></li>
+                    <li><a href="#kalender">Kalender</a></li>
+                    <li><a href="#tanggal-lahir">birthday</a></li>
+                    <li><a href="#tentang">Tentang</a></li>
+                     <li><a href="humas.html">humas</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h1><span class="accent-text"></span></h1>
+                <p></p>
+                <a href="#berita" class="btn-accent">Baca Berita Terbaru</a>
+            </div>
+        </section>
+
+        <section id="dokumen" class="section">
+            <div class="container">
+                <h2 class="section-title">Dokumen Penting</h2>
+                <div id="document-container" class="grid">
+                    <!-- Data dokumen akan dimuat secara dinamis via script.js -->
+                </div>
+            </div>
+        </section>
+
+        <section id="berita" class="section">
+            <div class="container">
+                <h2 class="section-title">Berita Terkini</h2>
+                <div id="news-container" class="news-list-dynamic">
+                    <!-- Data berita akan dimuat secara dinamis via script.js -->
+                </div>
+            </div>
+        </section>
+
+        <section id="kalender" class="section">
+            <div class="container">
+                <h2 class="section-title">Kalender Akademik PGSD 2026</h2>
+                <div id="calendar-container" class="calendar-grid">
+                    <!-- Data kalender akan dimuat secara dinamis via script.js -->
+                </div>
+            </div>
+        </section>
+
+        <section id="tanggal-lahir" class="section bg-alt">
+            <div class="container">
+                <h2 class="section-title">Ulang Tahun Bulan Ini</h2>
+                <div id="birthday-container" class="grid birthday-grid">
+                    <!-- Data ulang tahun akan dimuat secara dinamis via script.js -->
+                </div>
+            </div>
+        </section>
+
+        
+
+        <section id="tentang" class="section">
+            <div class="container">
+                <h2 class="section-title">Tentang Humas PGSD</h2>
+                <div class="about-content">
+                    <p>Humas PGSD merupakan garda terdepan dalam penyampaian informasi dan komunikasi antara program studi dengan masyarakat luas. Kami berkomitmen untuk menyajikan informasi yang akurat, cepat, dan transparan mengenai segala aktivitas dan prestasi di lingkungan Pendidikan Guru Sekolah Dasar.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer-section">
+        <div class="container footer-content">
+            <!-- Footer Column 1: Logo & Info -->
+            <div class="footer-col">
+                <div class="footer-logo">
+                    <a href="index.html" class="logo-link">
+                        <img src="logo.png" alt="Logo PGSD" class="brand-logo">
+                        <span class="logo-text">HUMAS <span class="accent-text">PGSD</span></span>
+                    </a>
+                </div>
+                <p class="footer-desc">Pusat Informasi dan Hubungan Masyarakat Program Studi Pendidikan Guru Sekolah Dasar Universitas Sanata Dharma.</p>
+                <div class="social-links">
+                    <a href="https://instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://wa.me/" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                </div>
+            </div>
+
+            <!-- Footer Column 2: Navigasi -->
+            <div class="footer-col">
+                <h3>Navigasi</h3>
+                <ul class="footer-links">
+                    <li><a href="#tentang">Tentang Kami</a></li>
+                    <li><a href="#">Kebijakan Privasi</a></li>
+                    <li><a href="#dokumen">Dokumen</a></li>
+                    <li><a href="#berita">Berita</a></li>
+                </ul>
+            </div>
+
+            <!-- Footer Column 3: Kontak -->
+            <div class="footer-col">
+                <h3>Hubungi Kami</h3>
+                <div class="contact-info">
+                    <p><i class="fas fa-map-marker-alt"></i> Jl. Affandi, Caturtunggal, Depok, Sleman, Yogyakarta</p>
+                    <p><i class="fas fa-envelope"></i> <a href="mailto:humas.pgsd@usd.ac.id">humas.pgsd@usd.ac.id</a></p>
+                    <p><i class="fas fa-phone"></i> +62 82389488187</p>
+                </div>
+            </div>
+            <!-- Footer Column 4: Grup WhatsApp -->
+            <div class="footer-col">
+                <h3>Grup WhatsApp Divisi</h3>
+                <div id="whatsapp-groups-container" class="wa-groups-list">
+                    <!-- Dinamis dari script.js -->
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <p>&copy; 2026 Humas PGSD. Didesain dengan dedikasi.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Modal for Full News Content -->
+    <div id="news-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modal-body">
+                <!-- Content will be injected by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

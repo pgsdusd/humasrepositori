@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Struktur Humas - Humas PGSD</title>
+    <!-- Favicon (Format PNG/JPG) -->
+    <link rel="icon" type="image/png" href="logo.png">
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <header>
+        <div class="container nav-wrapper">
+            <div class="logo">
+                <a href="index.html" class="logo-link">
+                    <img src="logo.png" alt="Logo PGSD" class="brand-logo">
+                    <span class="logo-text">HUMAS <span class="accent-text">PGSD</span></span>
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html#dokumen">Dokumen</a></li>
+                    <li><a href="index.html#berita">Berita</a></li>
+                    <li><a href="index.html#kalender">Kalender</a></li>
+                    <li><a href="index.html#tanggal-lahir">Birthday</a></li>
+                    <li><a href="index.html#tentang">Tentang</a></li>
+                    <li><a href="humas.html" class="active">Humas</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="humas-hero hero">
+            <div class="container">
+                <h1>Struktur <span class="accent-text">Organisasi</span></h1>
+                <p>Mengenal tim di balik layar Humas PGSD.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="container">
+                <h2 class="section-title text-center">CO Divisi</h2>
+                <div id="co-container" class="structure-grid co-grid">
+                    <!-- Data CO akan dimuat secara dinamis -->
+                </div>
+
+                <h2 class="section-title text-center" style="margin-top: 80px;">Anggota Divisi</h2>
+                <div id="members-container" class="structure-grid members-grid">
+                    <!-- Data Anggota akan dimuat secara dinamis -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer-section">
+        <div class="container footer-content">
+            <div class="footer-col">
+                <div class="footer-logo">
+                    <a href="index.html" class="logo-link">
+                        <img src="logo.png" alt="Logo PGSD" class="brand-logo">
+                        <span class="logo-text">HUMAS <span class="accent-text">PGSD</span></span>
+                    </a>
+                </div>
+                <p class="footer-desc">Pusat Informasi dan Hubungan Masyarakat Program Studi Pendidikan Guru Sekolah Dasar Universitas Sanata Dharma.</p>
+                <div class="social-links">
+                    <a href="https://instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://wa.me/" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                </div>
+            </div>
+            <div class="footer-col">
+                <h3>Navigasi</h3>
+                <ul class="footer-links">
+                    <li><a href="index.html#tentang">Tentang Kami</a></li>
+                    <li><a href="#">Kebijakan Privasi</a></li>
+                    <li><a href="index.html#dokumen">Dokumen</a></li>
+                    <li><a href="index.html#berita">Berita</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h3>Hubungi Kami</h3>
+                <div class="contact-info">
+                    <p><i class="fas fa-map-marker-alt"></i> Jl. Affandi, Caturtunggal, Depok, Sleman, Yogyakarta</p>
+                    <p><i class="fas fa-envelope"></i> <a href="mailto:humas.pgsd@usd.ac.id">humas.pgsd@usd.ac.id</a></p>
+                    <p><i class="fas fa-phone"></i> +62 82389488187</p>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <p>&copy; 2026 Humas PGSD. Didesain dengan dedikasi.</p>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
