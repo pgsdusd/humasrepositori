@@ -262,7 +262,7 @@ const documentData = [
     { title: "PPT HMPS PGSD 2026/2027", description: "Bagan organisasi Humas.", link: "https://www.canva.com/design/DAG-ZskcWNQ/6oe7Erf5PSJ7t8H3LdFgpg/edit?utm_content=DAG-ZskcWNQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton", type: "PPT" },
     { title: "Logo PGSD HD", description: "Logo resmi resolusi tinggi.", link: "#", type: "PNG" },
     { title: "Podcast Edukasi", description: "Materi belajar via audio.", link: "https://youtu.be/AnZ9hG0A_5A?si=EP8mXySLxrMERRxB", type: "MP3" },
-    { title: "Profil Kampus", description: "Video pengenalan kampus.", link: "#", type: "MP4" },
+    { title: "PDF", description: "Video pengenalan kampus.", link: "", type: "MP4" },
     { title: "Kumpulan Aset", description: "Semua file pendukung desain.", link: "#", type: "ZIP" },
     { title: "Catatan Rapat", description: "Log aktivitas mingguan.", link: "#", type: "TXT" },
     { title: "Icon Set", description: "Ikon vektor untuk website.", link: "#", type: "SVG" },
