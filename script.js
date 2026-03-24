@@ -41,7 +41,31 @@ const newsData = [
         date: "22 Maret 2026",
         author: "Admin ",
         image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=800&q=80", // JPG
-        content: "PGSD menyelenggarakan pelatihan literasi digital guna meningkatkan kompetensi guru di era revolusi industri 4.0. Kegiatan ini diikuti oleh ratusan guru dari berbagai daerah dengan antusiasme yang sangat tinggi.\n\nDalam pelatihan ini, para peserta diajarkan cara memanfaatkan berbagai platform digital untuk menunjang proses pembelajaran di kelas. Selain itu, ditekankan pula pentingnya keamanan data dan etika dalam berinternet bagi guru dan siswa."
+        content: "PGSD menyelenggarakan pelatihan literasi digital guna meningkatkan kompetensi guru di era revolusi industri 4.0. Kegiatan ini diikuti oleh ratusan guru dari berbagai daerah dengan antusiasme yang sangat tinggi.\n\ Sinergi di Balik Kabut Pulosari: Perjalanan HMPS PGSD Membangun Narasi Organisasi yang Tangguh
+YOGYAKARTA – Himpunan Mahasiswa Program Studi Pendidikan Guru Sekolah Dasar (HMPS PGSD) sukses menyelenggarakan kegiatan Malam Keakraban (Makrab) di Desa Wisata Pulosari pada 14-15 Maret 2026. Kegiatan ini bukan sekadar rekreasi, melainkan langkah strategis untuk memperkuat motivasi, menyelaraskan visi, dan mematangkan program kerja kolektif pengurus periode 2026/2027.
+Keberangkatan dan Pesona Pulosari
+Rombongan yang terdiri dari 32 anggota HMPS berangkat dari Yogyakarta pada pukul 12.30 WIB dan tiba di lokasi sekitar pukul 13.00 WIB. Setibanya di sana, para peserta disambut oleh udara sejuk, vegetasi yang asri, serta keramahan warga lokal. Pemandangan Gunung Merbabu yang megah menjadi latar belakang perjalanan, memberikan ketenangan sebelum memasuki rangkaian agenda yang padat.
+Refleksi Keunikan Individu dan Narasi Kelompok
+Salah satu sesi paling mendalam dipandu oleh Wakaprodi PGSD, Bapak Dr. Rusmawan, S.Pd., M.Pd.. Beliau menginstruksikan setiap anggota untuk menggambar ide personal mereka, yang kemudian disusun menjadi sebuah cerita di dalam masing-masing divisi. Puncaknya, seluruh gambar dari semua divisi digabungkan menjadi satu narasi besar.
+Beliau menginisiasi metode desain kreatif di mana setiap anggota memvisualisasikan ide personal yang kemudian diintegrasikan menjadi satu narasi besar lintas departemen.
+"Setiap individu membawa keunikan dan distingsi perjalanan hidupnya masing-masing. Dalam dinamika organisasi, keberagaman ide ini bukanlah hambatan, melainkan kekayaan narasi yang jika disatukan akan membangun identitas HMPS PGSD yang kuat dan bermakna," pungkas beliau dalam sesi pengantar.
+
+Supervisi Program Kerja oleh Pimpinan Prodi
+Agenda dilanjutkan dengan sesi supervisi yang dipimpin oleh Kaprodi PGSD, Bapak Andreas Erwin Prasetya, M.Pd.. Di bawah pimpinan Ketua HMPS Vator dan Wakil Ketua Caesa, setiap divisi—termasuk Departemen 1 yang menaungi Panitia Inti, Pak E Buk E, dan Duta PGSD—memaparkan perkembangan proyeksi kerja mereka secara mendetail.
+Bapak Andreas tidak hanya mendengarkan, tetapi juga memberikan solusi strategis atas berbagai kendala (problem-solving) yang dihadapi oleh masing-masing divisi. Kehadiran pimpinan prodi hingga malam hari ini memberikan dukungan moral yang besar bagi seluruh pengurus.
+Kehangatan Malam dan Ketangkasan Fisik
+Setelah sesi formal berakhir, suasana beralih menjadi lebih hangat dengan api unggun dan bakar jagung di tengah malam yang tenang. Kebersamaan ini berlanjut hingga keesokan paginya, dimulai dengan jalan pagi pada pukul 05.00 WIB untuk menikmati matahari terbit dan udara segar lereng Merbabu.
+Setelah sarapan, keceriaan memuncak dalam berbagai permainan edukatif yang melatih psikologi kelompok dan kolaborasi:
+•	Permainan Konsentrasi: : Permainan konsentrasi untuk melatih fokus dan ketangkasan individu Meliputi permainan maju-mundur, opposite, dan "dar-der-dor" yang penuh gelak tawa, di mana peserta yang salah mendapatkan coretan arang sebagai tanda keakraban.
+•	Estafet Air: : Estafet air sebagai representasi distribusi tugas yang selaras dalam organisasi Menggunakan busa yang dialirkan di atas kepala secara berderet untuk melatih keselarasan distribusi tugas.
+•	Wahana Rintangan Sungai: : Wahana rintangan sungai untuk membangun resiliensi (ketangguhan) mental anggota.
+•	Sesi paling seru yang menguji resiliensi dan ketangguhan mental anggota saat melewati arus sungai.
+ Komitmen Menuju Satu Periode ke Depan
+Kegiatan ditutup pada pukul 12.00 WIB setelah seluruh peserta membersihkan diri dan makan siang bersama. Rasa bahagia dan solidaritas terpancar dari wajah para anggota yang kini merasa lebih siap mengemban amanah. Dengan berakhirnya Makrab ini, HMPS PGSD resmi memulai langkah baru yang lebih harmonis dan profesional dalam melayani mahasiswa PGSD.
+
+
+
+nDalam pelatihan ini, para peserta diajarkan cara memanfaatkan berbagai platform digital untuk menunjang proses pembelajaran di kelas. Selain itu, ditekankan pula pentingnya keamanan data dan etika dalam berinternet bagi guru dan siswa."
     },
     {
         title: "Prestasi Mahasiswa PGSD di Kancah Nasional",
